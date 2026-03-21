@@ -1,0 +1,9 @@
+languageCode = "en-GB"
+languageName = "English"
+weight = 1
+
+[author]
+  name = "Terrance"
+  email = "hi@stationerygamer.com"
+  headline = "Tabletop RPGs, stationery, and the space between."
+  bio = "A forty-something gamer in Cape Town writing about the things that end up on his desk — campaigns, pens, notebooks, and printables."

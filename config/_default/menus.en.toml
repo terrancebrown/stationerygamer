@@ -1,0 +1,19 @@
+[[main]]
+  name = "Campaigns"
+  url = "/campaigns/"
+  weight = 1
+
+[[main]]
+  name = "Stationery"
+  url = "/stationery/"
+  weight = 2
+
+[[main]]
+  name = "Printables"
+  url = "/printables/"
+  weight = 3
+
+[[main]]
+  name = "About"
+  url = "/about/"
+  weight = 4
