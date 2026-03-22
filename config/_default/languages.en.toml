@@ -2,6 +2,8 @@ locale = "en-GB"
 label = "English"
 weight = 1
 
+description = "Tabletop RPGs, stationery, and the space between — a blog about the things that end up on the desk of a forty-something gamer in Cape Town."
+
 [author]
   name = "Terrance"
   email = "hi@stationerygamer.com"
