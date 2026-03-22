@@ -2,5 +2,6 @@ baseURL = "https://stationerygamer.com"
 locale = "en-GB"
 title = "The Stationery Gamer"
 theme = "blowfish"
+enableRobotsTXT = true
 [outputs]
   home = ["HTML", "RSS", "JSON"]
