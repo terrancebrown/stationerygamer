@@ -1,5 +1,5 @@
 baseURL = "https://stationerygamer.com"
-languageCode = "en-GB"
+locale = "en-GB"
 title = "The Stationery Gamer"
 theme = "blowfish"
 [outputs]

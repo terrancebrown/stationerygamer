@@ -1,5 +1,5 @@
-languageCode = "en-GB"
-languageName = "English"
+locale = "en-GB"
+label = "English"
 weight = 1
 
 [author]
