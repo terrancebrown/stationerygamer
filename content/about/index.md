@@ -1,6 +1,9 @@
 ---
 title: "About"
 draft: false
+showDate: false
+showReadingTime: false
+showWordCount: false
 ---
 
 The Stationery Gamer is a site about two things that have no business going together — tabletop RPGs and stationery — and yet somehow always end up on the same desk.
