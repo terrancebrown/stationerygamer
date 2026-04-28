@@ -1,8 +1,13 @@
-locale = "en-GB"
-label = "English"
+languageCode = "en"
+languageName = "English"
 weight = 1
+title = "The Stationery Gamer"
 
 [params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
   description = "Board games, video games, stationery, and the space between — a blog about the things that end up on the desk of a forty-something gamer in Cape Town."
 
 [params.author]
