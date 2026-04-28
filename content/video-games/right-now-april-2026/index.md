@@ -4,6 +4,8 @@ date: 2026-04-28
 draft: false
 summary: "What's in the console and on the desk this month — Arc Raiders, Rocket League, Hades, Titanfall 2, and a Pentel Energel I can't put down."
 tags: ["right now", "arc raiders", "rocket league", "hades", "titanfall 2", "pentel energel", "field notes"]
+showHero: true
+heroStyle: "basic"
 ---
 
 No board games on the table right now, but the console backlog is doing its best to make up for it. Here's what April looks like.
