@@ -6,8 +6,8 @@ showReadingTime: false
 showWordCount: false
 ---
 
-The Stationery Gamer is a site about two things that have no business going together — tabletop RPGs and stationery — and yet somehow always end up on the same desk.
+The Stationery Gamer is a site about the things that fill my time and clutter my desk — board games, video games, and an unreasonable amount of stationery.
 
-Written by Terrance, a forty-something in Cape Town running Call of Cthulhu and Star Trek Adventures campaigns, and spending too much money on notebooks and coffee in equal measure.
+Written by Terrance, a forty-something in Cape Town who spends too much money on notebooks, coffee, and games in roughly equal measure.
 
 No ads. No sponsored content. Just honest writing about the things I love.
