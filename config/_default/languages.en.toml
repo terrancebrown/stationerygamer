@@ -9,3 +9,8 @@ description = "Board games, video games, stationery, and the space between — a
   email = "hi@stationerygamer.com"
   headline = "Board games, video games, stationery, and the space between."
   bio = "A forty-something gamer in Cape Town writing about the things that end up on his desk — board games, video games, pens, and notebooks."
+  image = "img/avatar.jpg"
+  links = [
+    {mastodon = "https://social.lol/@terrance"},
+    {bluesky = "https://bsky.app/profile/merkaba.bsky.social"},
+  ]
