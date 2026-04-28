@@ -1,16 +1,16 @@
 [[main]]
+  name = "Stationery"
+  url = "/stationery/"
+  weight = 1
+
+[[main]]
   name = "Board Games"
   url = "/board-games/"
-  weight = 1
+  weight = 2
 
 [[main]]
   name = "Video Games"
   url = "/video-games/"
-  weight = 2
-
-[[main]]
-  name = "Stationery"
-  url = "/stationery/"
   weight = 3
 
 [[main]]

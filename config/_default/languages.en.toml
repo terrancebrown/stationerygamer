@@ -2,10 +2,10 @@ locale = "en-GB"
 label = "English"
 weight = 1
 
-description = "Tabletop RPGs, stationery, and the space between — a blog about the things that end up on the desk of a forty-something gamer in Cape Town."
+description = "Board games, video games, stationery, and the space between — a blog about the things that end up on the desk of a forty-something gamer in Cape Town."
 
 [author]
   name = "Terrance"
   email = "hi@stationerygamer.com"
-  headline = "Tabletop RPGs, stationery, and the space between."
-  bio = "A forty-something gamer in Cape Town writing about the things that end up on his desk — campaigns, pens, notebooks, and printables."
+  headline = "Board games, video games, stationery, and the space between."
+  bio = "A forty-something gamer in Cape Town writing about the things that end up on his desk — board games, video games, pens, and notebooks."
