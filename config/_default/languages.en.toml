@@ -17,6 +17,6 @@ title = "The Stationery Gamer"
   bio = "A forty-something gamer in Cape Town writing about the things that end up on his desk — board games, video games, pens, and notebooks."
   image = "img/avatar.png"
   links = [
-    {mastodon = "https://social.lol/@terrance"},
-    {bluesky = "https://bsky.app/profile/merkaba.bsky.social"},
+    {mastodon = "https://mastodon.social/@stationerygamer"},
+    {instagram = "https://www.instagram.com/stationerygamer/"},
   ]
