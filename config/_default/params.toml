@@ -17,7 +17,7 @@ enableStructuredBreadcrumbs = false
 
 replyByEmail = false
 
-mainSections = ["board-games", "video-games", "stationery"]
+mainSections = ["video-games", "stationery"]
 # robots = ""
 
 disableImageOptimization = false

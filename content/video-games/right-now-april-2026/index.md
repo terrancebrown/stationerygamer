@@ -8,7 +8,7 @@ showHero: true
 heroStyle: "basic"
 ---
 
-No board games on the table right now, but the console backlog is doing its best to make up for it. Here's what April looks like.
+Here's what April looks like.
 
 ## Playing
 

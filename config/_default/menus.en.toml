@@ -4,16 +4,11 @@
   weight = 1
 
 [[main]]
-  name = "Board Games"
-  url = "/board-games/"
-  weight = 2
-
-[[main]]
   name = "Video Games"
   url = "/video-games/"
-  weight = 3
+  weight = 2
 
 [[main]]
   name = "About"
   url = "/about/"
-  weight = 4
+  weight = 3
